@@ -1,3 +1,5 @@
-Welcome to my page. This is where I put my projects on.
+# What is this?
+This is my page where I publish my projects
 
-Right now I don't have any projects but I will link them when I do.
+# Projects
+None.
